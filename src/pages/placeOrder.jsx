@@ -1,11 +1,6 @@
-import React from 'react'
+import React from "react";
 
-const placeOrder = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
-
-export default placeOrder
+const placeorder = () => {
+  return <div></div>;
+};
+export default placeorder;
